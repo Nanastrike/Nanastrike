@@ -1,4 +1,14 @@
 ## Hi there 👋
+# Hello, I'm Xiaoyu 👋
+
+### 💻 Coding quietly in the dark...
+
+- 🐱 Cat companion: Pudding
+- 🧠 Skills: Java / Flutter / French learning
+- 🎨 Hobby: writing stories, drawing ideas, becoming a digital nomad
+
+> “Still growing, still glowing.” 🌙
+
 
 <!--
 **Nanastrike/Nanastrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
